@@ -1,0 +1,55 @@
+body {
+ background: #f6e1fa;
+}
+.card{
+    background-color: #f6e1fa;
+    border: none;
+    margin:auto;
+    padding:10px;
+}
+p{
+    font-size:15px;
+    color: rgb(7, 13, 17);
+    text-align: center;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    margin:auto;
+}
+
+img{
+    margin:auto;
+    display:block;
+    width:600px;
+}
+
+label{
+  color: rgb(7, 13, 17);
+  display: block;
+  margin-bottom: 10px;
+  font-weight: 500;
+}
+
+button,
+#movie-input[type="submit"] {
+  padding: 5px 20px;
+  margin: 10px 10px 10px 0;
+  color: #fff;
+  cursor: pointer;
+  background: #720e86;
+
+}
+#movie-form{
+  float: right;
+  width: 30%;
+  padding: 40px;
+}
+
+#gif-div{
+    float: left;
+}
+
+.gifs{
+    padding:10px;
+}
+.movieButton{
+    padding: 15px;
+}
